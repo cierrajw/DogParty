@@ -1,0 +1,119 @@
+body {
+	padding:0; 
+	margin:0 auto;
+	margin-bottom: 0px;
+	background-color: #438da6;
+}
+td{
+	padding: 2em;
+
+}
+table{
+	border-spacing: 0px;
+}
+tr{
+	padding: 0px;
+	margin: 0px;
+}
+#icon{
+	padding-left: 2em;
+	padding-top: .5em;
+}
+header{
+	background-color: #95e0e4;
+	height: 50px;
+	margin-top: 0;
+	word-spacing: 2em;
+	margin-bottom: 0px;
+	color: white;
+	padding-right: 2em;
+
+}
+header img{
+	vertical-align: center;
+}
+nav li{
+	display: inline-block;
+
+}
+.thirdRow td{
+	align-content: center;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	background-color: white;
+}
+#topsection{
+	background-image: url("/Users/Cierra/Documents/Turing Projects/HTML Week 1 Challenges/Dog Party/images/park.jpg");
+	width: 100%;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+
+}
+.td1{
+	background-image: url("/Users/Cierra/Documents/Turing Projects/HTML Week 1 Challenges/Dog Party/images/park.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 400px;
+	text-align: center;
+	font-family: "Trebuchet MS";
+	font-family: 'Raleway', sans-serif;
+
+}
+#dog1{
+	border-radius: 50%;
+	height: 220px;
+	width: 220px;
+	border: 2px solid #438da6;
+	margin-bottom: 1em;
+}
+ul{
+	float: right;
+
+}
+#topnav{
+	float: right;
+}
+button{
+	background-color: white;
+	border: 3px solid #438da6;
+	height: 25px;
+	color: #438da6;
+	font-size: small;
+	font-family: 'Raleway', sans-serif;
+}
+#toptr{
+	display: table;
+	background-color: #AED6F1;
+	margin-right: 0;
+	width: 100%;
+}
+.row3image{
+	border-radius: 50%;
+	border: 2px solid #438da6;
+	align-self: center;
+}
+footer{
+	background-color: #438da6;
+	width: 100%;
+	align-content: center;
+	text-align: center;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+}
+footer a{
+	color: white;
+}
+footer img{
+	padding-right: 1em;
+	padding-left: 1em;
+	padding-bottom: 2em;
+	text-align: center;
+}
+footer h5{
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+a#footergithub{
+	padding-bottom: 1em;
+}
