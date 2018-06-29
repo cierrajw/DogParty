@@ -11,10 +11,6 @@ td{
 table{
 	border-spacing: 0px;
 }
-tr{
-	padding: 0px;
-	margin: 0px;
-}
 #icon{
 	padding-left: 2em;
 	padding-top: .5em;
@@ -29,6 +25,9 @@ header{
 	padding-right: 2em;
 
 }
+ul a{
+	color: white;
+}
 header img{
 	vertical-align: center;
 }
@@ -37,17 +36,9 @@ nav li{
 
 }
 .thirdRow td{
-	align-content: center;
 	text-align: center;
 	font-family: 'Raleway', sans-serif;
 	background-color: white;
-}
-#topsection{
-	background-image: url("/Users/Cierra/Documents/Turing Projects/HTML Week 1 Challenges/Dog Party/images/park.jpg");
-	width: 100%;
-	text-align: center;
-	font-family: 'Raleway', sans-serif;
-
 }
 .td1{
 	background-image: url("/Users/Cierra/Documents/Turing Projects/HTML Week 1 Challenges/Dog Party/images/park.jpg");
@@ -69,7 +60,6 @@ nav li{
 }
 ul{
 	float: right;
-
 }
 #topnav{
 	float: right;
@@ -81,12 +71,6 @@ button{
 	color: #438da6;
 	font-size: small;
 	font-family: 'Raleway', sans-serif;
-}
-#toptr{
-	display: table;
-	background-color: #AED6F1;
-	margin-right: 0;
-	width: 100%;
 }
 .row3image{
 	border-radius: 50%;
